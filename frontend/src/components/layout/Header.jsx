@@ -45,7 +45,7 @@ export default function Header() {
           <div className="w-10 h-10 bg-yellow-400 rounded-xl border-2 border-black flex items-center justify-center transform group-hover:rotate-6 transition-transform">
             <Sparkles size={20} className="text-black" />
           </div>
-          <span className="font-bold text-xl text-gray-900">ProjectWriter</span>
+          <span className="font-bold text-xl text-gray-900">WriteFlow</span>
         </Link>
 
         {/* Navigation */}

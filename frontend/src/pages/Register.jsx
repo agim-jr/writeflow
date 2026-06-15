@@ -85,7 +85,7 @@ export default function Register() {
             <div className="w-12 h-12 bg-yellow-400 rounded-xl border-2 border-black flex items-center justify-center transform rotate-3">
               <Sparkles size={24} className="text-black" />
             </div>
-            <h1 className="text-4xl font-bold text-gray-900">ProjectWriter</h1>
+            <h1 className="text-4xl font-bold text-gray-900">WriteFlow</h1>
           </div>
           <p className="text-gray-600 font-bold text-lg">
             Start your writing journey!

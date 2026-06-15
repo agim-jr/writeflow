@@ -119,9 +119,7 @@ export default function Dashboard() {
               <div className="w-10 h-10 bg-yellow-400 rounded-lg border-2 border-black flex items-center justify-center transform rotate-3">
                 <Sparkles size={20} className="text-black" />
               </div>
-              <span className="text-xl font-bold text-gray-900">
-                ProjectWriter
-              </span>
+              <span className="text-xl font-bold text-gray-900">WriteFlow</span>
             </Link>
 
             {/* Navigation */}
