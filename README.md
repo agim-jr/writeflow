@@ -87,3 +87,12 @@ WriteFlow is a comprehensive writing platform designed to solve common writer ch
 Python 3.11+
 Node.js 18+
 PostgreSQL 14+
+
+## Author
+
+**Junior Agim**
+
+Full-stack developer passionate about building clean, user-focused web applications.
+
+- GitHub: [@agim-jr](https://github.com/agim-jr)
+- Email: junior.agim@gmail.com
