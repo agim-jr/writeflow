@@ -4,48 +4,48 @@
 
 [![GitHub](https://img.shields.io/badge/github-repo-blue)](https://github.com/agim-jr/writeflow)
 [![Python](https://img.shields.io/badge/python-3.11+-blue)](https://www.python.org/)
-[![React](https://img.shields.io/badge/react-18-blue)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/react-18-blue)](https://react.dev/)
 [![FastAPI](https://img.shields.io/badge/fastapi-latest-green)](https://fastapi.tiangolo.com/)
 
 ![WriteFlow Hero](screenshots/hero.png)
 
-##  Project Overview
+## Project Overview
 
 WriteFlow is a comprehensive writing platform designed to solve common writer challenges: maintaining focus, tracking progress, and staying motivated. The application combines modern web technologies with a custom rule-based AI system to create an engaging, distraction-free writing experience.
 
-**📸 [View Screenshots](#-screenshots)**
+** [View Screenshots](#-screenshots)**
 
 ---
 
-##  Key Features
+## Key Features
 
-###  Smart Writing Environment
+### Smart Writing Environment
 - **Multiple Writing Modes**: Timed sessions (25/45 min), Sprint mode, Focus mode with real-time countdowns
 - **Real-time Analytics**: Live word count, WPM tracking, and writing streak visualization
 - **Auto-save & Export**: Seamless auto-saving with TXT, Markdown, and HTML export options
 - **Distraction-Free Interface**: Clean, modern UI built with React and Tailwind UI
 
-###  Custom Rule-Based AI Writing Coach
+### Custom Rule-Based AI Writing Coach
 - **Real-time Motivation**: Context-aware encouragement based on writing patterns
 - **Writer's Block Detection**: Intelligent pattern analysis with personalized nudges
 - **Milestone Celebrations**: Gamified achievements for hitting word count goals
 - **Adaptive Coaching Styles**: Choose from Cheerleader, Taskmaster, Philosopher, or Comedian personas
 - **Privacy-First**: All AI processing happens locally on your server (no external API dependencies)
 
-###  Analytics & Progress Tracking
+### Analytics & Progress Tracking
 - **Writing Streaks**: Visual streak tracking with calendar heatmaps to maintain momentum
 - **Performance Metrics**: Detailed WPM analysis, pause patterns, and editing behavior insights
 - **Session History**: Comprehensive statistics with interactive Recharts visualizations
 - **Daily Goals**: 250-word minimum with progress indicators and achievement badges
 
-###  Community Features
+### Community Features
 - **Share Your Work**: Post your writing (one per day after meeting 250-word goal)
 - **Engage with Others**: Like and comment system for community interaction
 - **Motivational Feed**: Stay inspired by fellow writers' achievements and posts
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 18** - Modern UI with hooks and functional components
@@ -74,11 +74,10 @@ WriteFlow is a comprehensive writing platform designed to solve common writer ch
 
 ---
 
-##  Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
 Python 3.11+
 Node.js 18+
 PostgreSQL 14+ (or SQLite for development)
-
